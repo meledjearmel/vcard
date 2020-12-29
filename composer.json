@@ -1,0 +1,13 @@
+{
+    "name": "meledjearmel/v-card",
+    "description": "Change vCard numbers",
+    "authors": [
+        {
+            "name": "Armel Meledje",
+            "email": "meledjearmel@gmail.com"
+        }
+    ],
+    "require": {
+        "sabre/vobject": "^4.0"
+    }
+}
